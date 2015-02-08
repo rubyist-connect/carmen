@@ -1,0 +1,12 @@
+---
+ja:
+  world:
+    ug:
+      c:
+        name: Central
+      e:
+        name: Eastern
+      n:
+        name: Northern
+      w:
+        name: Western

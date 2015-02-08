@@ -1,0 +1,13 @@
+---
+ja:
+  world:
+    es:
+      ct:
+        b:
+          name: Barcelona
+        gi:
+          name: Girona
+        l:
+          name: Lleida
+        t:
+          name: Tarragona
