@@ -1,0 +1,13 @@
+---
+ja:
+  world:
+    it:
+      '42':
+        ge:
+          name: Genova
+        im:
+          name: Imperia
+        sp:
+          name: La Spezia
+        sv:
+          name: Savona
